@@ -10,8 +10,7 @@ STEPS TO START GAME:
 1. Have a Spotify Premium account 
 2. Find a playlist you want to play the game with and grab the playlist ID
 3. Go to client > src > components > GenerateBingoCard.js > input Spotify playlist where it says playlistID
-4. Go to terminal and cd to client 
-    Run:
+4. Go to terminal and cd to client. Run:
     ```bash
     npm install
     npm run build
