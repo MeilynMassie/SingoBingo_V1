@@ -12,9 +12,9 @@ STEPS TO START GAME:
 3. Go to client > src > components > GenerateBingoCard.js > input Spotify playlist where it says playlistID
 4. Go to terminal and cd to client 
 5. Run
-6.   npm install
-7.   npm run build
-8.   npm run start
+6.   *npm install
+7.   *npm run build
+8.   *npm run start
 10. Open localhost link provided in console
 11. Go to test tab and input the playlist ID
 12. Go to Bingo Card tab and refresh the window. The cards should now have songs on them
